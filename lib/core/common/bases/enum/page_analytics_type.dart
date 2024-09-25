@@ -1,0 +1,1 @@
+enum PageAnalyticsType { open, close }
