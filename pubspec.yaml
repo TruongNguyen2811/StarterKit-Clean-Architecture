@@ -85,6 +85,7 @@ dependencies:
   flutter_svg: ^2.0.10+1
   flutter_screenutil: ^5.9.3
   device_info_plus: ^9.1.2
+  clean_architecture_with_state_management: ^1.1.2
 
 dev_dependencies:
   flutter_test:

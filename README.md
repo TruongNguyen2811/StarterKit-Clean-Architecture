@@ -1,4 +1,4 @@
-# starte_kit
+# starter_kit
 
 A new Flutter project.
 
@@ -24,6 +24,8 @@ samples, guidance on mobile development, and a full API reference.
     - dart run build_runner build -d
     - dart run easy_localization:generate -S ./assets/translations -s vi.json -f keys -o locale_keys.gen.dart
     - fluttergen -c ./pubspec.yaml
+4. Generate feature
+    - fvm dart run clean_architecture_with_state_management yourNameFeature -cubit
 
 # Cách thực triển khai
 # clean-code-architecture-flutter
